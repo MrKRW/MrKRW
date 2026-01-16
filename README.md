@@ -16,15 +16,13 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td align="left" width="100%">
+      <td align="center" width="100%">
         <h3>👨‍💻 Identity Matrix</h3>
         <ul>
-          <li>🔭 <b>Working on:</b> Mobile Apps & Network Topologies</li>
           <li>🎓 <b>Studying:</b> Computer Science</li>
-          <li>🌱 <b>Learning:</b> Cloud, AI & Machine Learning</li>
-          <li>📡 <b>Interests:</b> IoT, Data Science & Networking</li>
-          <li>⚡ <b>Fun Fact:</b> I treat my battery health anxiety by writing efficient code.</li>
-        </ul>
+          <li>🌱 <b>Learning:</b> Cloud,Application development, AI & Machine Learning</li>
+          <li>📡 <b>Interests:</b> IoT, Data Science, Networking, AI, Machine Learning & Building IT based innovations</li>
+          </ul>
       </td>
     </tr>
   </table>
