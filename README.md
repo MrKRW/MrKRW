@@ -13,20 +13,24 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 Identity Matrix</h3>
-      <br/>
-      <ul>
-        <li>🔭 <b>Working on:</b> Mobile Apps & Network Topologies</li>
-        <li>🎓 <b>Studying:</b> Computer Science</li>
-        <li>🌱 <b>Learning:</b> Cloud, AI & Machine Learning</li>
-        <li>📡 <b>Interests:</b> IoT, Data Science & Networking</li>
-        <li>⚡ <b>Fun Fact:</b> I treat my battery health anxiety by writing efficient code.</li>
-      </ul>
-    </td>
-  <br/>
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="left" width="100%">
+        <h3>👨‍💻 Identity Matrix</h3>
+        <ul>
+          <li>🔭 <b>Working on:</b> Mobile Apps & Network Topologies</li>
+          <li>🎓 <b>Studying:</b> Computer Science</li>
+          <li>🌱 <b>Learning:</b> Cloud, AI & Machine Learning</li>
+          <li>📡 <b>Interests:</b> IoT, Data Science & Networking</li>
+          <li>⚡ <b>Fun Fact:</b> I treat my battery health anxiety by writing efficient code.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 <h3>🛠️ The Arsenal</h3>
 
@@ -40,6 +44,9 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
+<br/>
+<br/>
+
 **Tools & Platforms:**
 <br/>
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -50,4 +57,3 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <hr/>
-
