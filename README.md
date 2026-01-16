@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kavinsha;CS+Undergrad+%7C+Network+Enthusiast;Mobile+Dev+%7C+IoT+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Kavinsha" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -26,15 +26,7 @@
         <li>⚡ <b>Fun Fact:</b> I treat my battery health anxiety by writing efficient code.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
+  <br/>
 
 <h3>🛠️ The Arsenal</h3>
 
@@ -56,6 +48,3 @@
 
 <br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
