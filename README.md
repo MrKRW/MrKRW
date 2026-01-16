@@ -16,8 +16,8 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center" width="100%">
-        <h3>👨‍💻 Identity Matrix</h3>
+      <td align="left" width="100%">
+        <h3 align="center">👨‍💻 Identity Matrix</h3>
         <ul>
           <li>🎓 <b>Studying:</b> Computer Science</li>
           <li>🌱 <b>Learning:</b> Cloud,Application development, AI & Machine Learning</li>
@@ -27,9 +27,7 @@
     </tr>
   </table>
 </div>
-
 <br/>
-
 <h3>🛠️ The Arsenal</h3>
 
 **Languages:**
