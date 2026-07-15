@@ -6,21 +6,25 @@
   <a href="https://www.linkedin.com/in/kavinsha-welikumbura-aab749372/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
 <br/>
+<hr/>
+<br/>
+
 <div align="center">
   <table align="center">
     <tr>
       <td align="left" width="100%">
         <h3 align="center">👨‍💻 Identity Matrix</h3>
         <ul>
-          <li>🎓 <b>Studying:</b> Computer Science</li><br>
-          <li>🌱 <b>Learning:</b> Cloud, Application Development, AI & Machine Learning</li><br>
-          <li>📡 <b>Interests:</b> IoT, Data Science, Networking, AI, Machine Learning & Building IT based innovations</li><br>
-          <li>🚀 <b>Goal:</b> Building Scalable, Intelligent & Impactful Software Solutions</li><br>
+          <li>🎓 <b>Studying:</b> Computer Science</li>
+          <li>🌱 <b>Learning:</b> Cloud, Application Development, AI & Machine Learning</li>
+          <li>📡 <b>Interests:</b> IoT, Data Science, Networking, AI, Machine Learning & Building IT based innovations</li>
+          <li>🚀 <b>Goal:</b> Building Scalable, Intelligent & Impactful Software Solutions</li>
         </ul>
       </td>
     </tr>
@@ -28,14 +32,20 @@
 </div>
 
 <br/>
+<hr/>
+<br/>
 
-<h3>🛠️ The Arsenal</h3>
+<div align="center">
+  <h3>🛠️ The Arsenal</h3>
+</div>
 
 **Languages:**
 <br/>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cs,php,react&theme=dark" alt="Languages" />
 </a>
+
+<br/>
 <br/>
 
 **Tools & Platforms:**
@@ -51,11 +61,18 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<br/>
-<br/>
-**📊 GitHub Stats**
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</a>
 
+<br/>
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
 <hr/>
