@@ -20,7 +20,7 @@
           <li>🎓 <b>Studying:</b> Computer Science</li><br>
           <li>🌱 <b>Learning:</b> Cloud, Application Development, AI & Machine Learning</li><br>
           <li>📡 <b>Interests:</b> IoT, Data Science, Networking, AI, Machine Learning & Building IT based innovations</li><br>
-           <li>🚀 <b>Goal:</b> Building Scalable, Intelligent & Impactful Software Solutions/li><br>
+          <li>🚀 <b>Goal:</b> Building Scalable, Intelligent & Impactful Software Solutions</li><br>
         </ul>
       </td>
     </tr>
@@ -34,7 +34,7 @@
 **Languages:**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cs&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cs,php,react&theme=dark" alt="Languages" />
 </a>
 <br/>
 
@@ -48,6 +48,10 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+<br/>
 <br/>
 <p>Github Stats</p>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
