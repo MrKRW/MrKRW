@@ -17,10 +17,10 @@
       <td align="left" width="100%">
         <h3 align="center">👨‍💻 Identity Matrix</h3>
         <ul>
-          <li>🎓 <b>Studying:</b> Computer Science</li>
-          <li>🌱 <b>Learning:</b> Cloud, Application Development, AI & Machine Learning</li>
-          <li>📡 <b>Interests:</b> IoT, Data Science, Networking, AI, Machine Learning & Building IT based innovations</li>
-           <li>🚀 <b>Goal:</b> Building Scalable, Intelligent & Impactful Software Solutions/li>
+          <li>🎓 <b>Studying:</b> Computer Science</li><br>
+          <li>🌱 <b>Learning:</b> Cloud, Application Development, AI & Machine Learning</li><br>
+          <li>📡 <b>Interests:</b> IoT, Data Science, Networking, AI, Machine Learning & Building IT based innovations</li><br>
+           <li>🚀 <b>Goal:</b> Building Scalable, Intelligent & Impactful Software Solutions/li><br>
         </ul>
       </td>
     </tr>
