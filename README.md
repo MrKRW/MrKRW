@@ -43,7 +43,7 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cs,php,react&theme=dark" alt="Languages" />
 </a>
-
+<br/>
 <br/>
 **Tools & Platforms:**
 <br/>
