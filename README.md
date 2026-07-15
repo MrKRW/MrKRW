@@ -54,7 +54,8 @@
 
 <br/>
 <br/>
-
+<h2>==============================================================</h2>
+<p>Github Stats</p>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </a>
