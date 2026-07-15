@@ -31,7 +31,6 @@
   </table>
 </div>
 
-<br/>
 <hr/>
 <br/>
 
@@ -46,8 +45,6 @@
 </a>
 
 <br/>
-<br/>
-
 **Tools & Platforms:**
 <br/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
