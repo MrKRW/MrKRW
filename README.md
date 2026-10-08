@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/kavinsha-welikumbura-aab749372/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -40,13 +41,18 @@
 
 **Languages:**
 <br/>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,python,java,c,cs,php,react&theme=dark" alt="Languages" />
 </a>
+
 <br/>
 <br/>
+
 **Tools & Platforms:**
+
 <br/>
+
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -69,12 +75,53 @@
 <hr/>
 <br/>
 
+<!-- ==================== GITHUB STATS ==================== -->
+
 <div align="center">
   <h3>📊 GitHub Stats</h3>
+
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+    <img
+      src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false"
+      alt="GitHub Streak"
+    />
   </a>
 </div>
 
 <br/>
+
+<!-- ==================== GITHUB PROFILE STATS ==================== -->
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+</div>
+
+<br/>
+
+<!-- ==================== TOP LANGUAGES ==================== -->
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=false&langs_count=8"
+    alt="Top Languages"
+  />
+
+</div>
+
+<br/>
 <hr/>
+<br/>
+
+<div align="center">
+  <h3>🚀 Thanks for visiting my profile!</h3>
+
+  <p>
+    <i>Building. Learning. Innovating. 🚀</i>
+  </p>
+</div>
